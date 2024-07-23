@@ -1,8 +1,8 @@
 {
-    "name": "evcc",
+    "name": "evcc nightly build",
     "version": "nightly",
     "slug": "evcc",
-    "description": "EV Charge Controller!",
+    "description": "EV Charge Controller! - nightly build",
     "url": "https://github.com/evcc-io/evcc",
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
     "startup": "application",
